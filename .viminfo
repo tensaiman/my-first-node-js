@@ -1,0 +1,156 @@
+# この viminfo ファイルは Vim 8.0 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:q
+|2,0,1591026683,,"q"
+:w
+|2,0,1591026676,,"w"
+:wq
+|2,0,1590304969,,"wq"
+:q!
+|2,0,1587899437,,"q!"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""-	CHAR	0
+	た
+|3,1,36,0,1,0,1587899069,"た"
+
+# ファイルマーク:
+'0  3  0  ~/workspace/git-study/README.md
+|4,48,3,0,1591026683,"~/workspace/git-study/README.md"
+'1  23  1  /tmp/crontab.ZLpabi/crontab
+|4,49,23,1,1590304969,"/tmp/crontab.ZLpabi/crontab"
+'2  418  0  /tmp/tutorR1cVq6
+|4,50,418,0,1587899437,"/tmp/tutorR1cVq6"
+'3  40  0  /tmp/tutorHpqx7y
+|4,51,40,0,1587899001,"/tmp/tutorHpqx7y"
+'4  1  0  ~/workspace/vim-study/test.txt
+|4,52,1,0,1587897435,"~/workspace/vim-study/test.txt"
+'5  1  0  /.profile
+|4,53,1,0,1587897260,"/.profile"
+
+# ジャンプリスト (新しいものが先):
+-'  3  0  ~/workspace/git-study/README.md
+|4,39,3,0,1591026683,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1591026521,"~/workspace/git-study/README.md"
+-'  23  1  /tmp/crontab.ZLpabi/crontab
+|4,39,23,1,1590304969,"/tmp/crontab.ZLpabi/crontab"
+-'  23  1  /tmp/crontab.ZLpabi/crontab
+|4,39,23,1,1590304969,"/tmp/crontab.ZLpabi/crontab"
+-'  1  0  /tmp/crontab.ZLpabi/crontab
+|4,39,1,0,1590304843,"/tmp/crontab.ZLpabi/crontab"
+-'  1  0  /tmp/crontab.ZLpabi/crontab
+|4,39,1,0,1590304843,"/tmp/crontab.ZLpabi/crontab"
+-'  418  0  /tmp/tutorR1cVq6
+|4,39,418,0,1587899437,"/tmp/tutorR1cVq6"
+-'  418  0  /tmp/tutorR1cVq6
+|4,39,418,0,1587899437,"/tmp/tutorR1cVq6"
+-'  418  0  /tmp/tutorR1cVq6
+|4,39,418,0,1587899437,"/tmp/tutorR1cVq6"
+-'  418  0  /tmp/tutorR1cVq6
+|4,39,418,0,1587899437,"/tmp/tutorR1cVq6"
+-'  1  0  /tmp/tutorR1cVq6
+|4,39,1,0,1587899006,"/tmp/tutorR1cVq6"
+-'  1  0  /tmp/tutorR1cVq6
+|4,39,1,0,1587899006,"/tmp/tutorR1cVq6"
+-'  1  0  /tmp/tutorR1cVq6
+|4,39,1,0,1587899006,"/tmp/tutorR1cVq6"
+-'  1  0  /tmp/tutorR1cVq6
+|4,39,1,0,1587899006,"/tmp/tutorR1cVq6"
+-'  40  0  /tmp/tutorHpqx7y
+|4,39,40,0,1587899001,"/tmp/tutorHpqx7y"
+-'  40  0  /tmp/tutorHpqx7y
+|4,39,40,0,1587899001,"/tmp/tutorHpqx7y"
+-'  40  0  /tmp/tutorHpqx7y
+|4,39,40,0,1587899001,"/tmp/tutorHpqx7y"
+-'  40  0  /tmp/tutorHpqx7y
+|4,39,40,0,1587899001,"/tmp/tutorHpqx7y"
+-'  1  0  /tmp/tutorHpqx7y
+|4,39,1,0,1587897511,"/tmp/tutorHpqx7y"
+-'  1  0  /tmp/tutorHpqx7y
+|4,39,1,0,1587897511,"/tmp/tutorHpqx7y"
+-'  1  0  /tmp/tutorHpqx7y
+|4,39,1,0,1587897511,"/tmp/tutorHpqx7y"
+-'  1  0  /tmp/tutorHpqx7y
+|4,39,1,0,1587897511,"/tmp/tutorHpqx7y"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1587897435,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1587897435,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1587897435,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1587897435,"~/workspace/vim-study/test.txt"
+-'  1  0  /.profile
+|4,39,1,0,1587897260,"/.profile"
+-'  1  0  /.profile
+|4,39,1,0,1587897260,"/.profile"
+-'  1  0  /.profile
+|4,39,1,0,1587897260,"/.profile"
+-'  1  0  /.profile
+|4,39,1,0,1587897260,"/.profile"
+-'  1  0  /.profile
+|4,39,1,0,1587897260,"/.profile"
+-'  1  0  /.profile
+|4,39,1,0,1587897260,"/.profile"
+-'  1  0  /.profile
+|4,39,1,0,1587897260,"/.profile"
+-'  1  0  /.profile
+|4,39,1,0,1587897260,"/.profile"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/workspace/git-study/README.md
+	*	1591026676	0
+	"	3	0
+	^	3	0
+	.	3	0
+	+	5	122
+	+	1	14
+	+	3	0
+
+> /tmp/crontab.ZLpabi/crontab
+	*	1590304965	0
+	"	23	1
+	^	23	2
+	.	23	1
+	+	23	1
+
+> /tmp/tutorR1cVq6
+	*	1587899429	0
+	"	418	0
+	^	108	62
+	.	108	62
+	+	83	59
+	+	108	62
+
+> /tmp/tutorHpqx7y
+	*	1587898989	0
+	"	40	0
+
+> ~/workspace/vim-study/test.txt
+	*	1587897429	0
+	"	1	0
+
+> /.profile
+	*	1587897213	0
+	"	1	0
